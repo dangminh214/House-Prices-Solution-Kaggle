@@ -1,4 +1,4 @@
-# Titel: House Price Prediction on Kaggle 
+# Title: House Price Prediction on Kaggle 
 ### Technical Stack: Jupyter Notebook, Numpy, Pandas, Mean Square Error, Random Forrest Regression, Mathplotlib 
 
 ### Import Data to train and test 
